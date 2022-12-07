@@ -4,8 +4,8 @@
   "description": "The FriendFinder app is written in JavaScript and uses ExpressJS. After being prompted to fill out the survey, the information is parsed and matched with other users input and a friend is suggested based on an algorithm.",
   "main": "server.js",
   "dependencies": {
-    "body-parser": "^1.19.0",
-    "express": "^4.17.1",
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
     "path": "^0.12.7"
   },
   "devDependencies": {},
